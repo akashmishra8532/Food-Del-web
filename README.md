@@ -68,7 +68,7 @@ Welcome to the **Food Ordering Web Application**, a complete full-stack project 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mern-food-app.git
+git clone https://github.com/akashmishra8532/Food-Del-web.git
 cd mern-food-app
 ```
 
